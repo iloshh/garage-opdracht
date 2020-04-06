@@ -1,0 +1,15 @@
+body{
+    background-image: url("background.jpg");
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: blue;
+}
+a:visited {
+    color: white;
+}
+a:hover, a:active, a:focus {
+    color:red;
+}
